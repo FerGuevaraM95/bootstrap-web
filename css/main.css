@@ -37,8 +37,9 @@
 }
 
 
-/** TEAM **/
+/** TEAM & FOOTER**/
 
-.team {
+.team,
+footer {
     background-color: #3033cb;
 }
